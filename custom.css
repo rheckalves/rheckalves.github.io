@@ -1,0 +1,100 @@
+.realbody {
+    background-color: red;
+    z-index: 0;
+  }
+  
+  .backgroundforanimation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .sandpit {
+    width: 100%;
+    height: 100%;
+    background-color:#6959CD;
+    z-index: 0;
+    overflow: hidden;
+  }
+  
+  .brick {
+    position: absolute;
+    z-index: 0;
+    height: 10%;
+    width: 12.5%;
+    background-color: #841F27;
+    border-color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: -100%;
+  }
+  
+  .oddbrick1 {
+    margin-left: 0%;
+  }
+  
+  .oddbrick2 {
+    margin-left: 12.5%;
+  }
+  
+  .oddbrick3 {
+    margin-left: 25%;
+  }
+  
+  .oddbrick4 {
+    margin-left: 37.5%;
+  }
+  
+  .oddbrick5 {
+    margin-left: 50%;
+  }
+  
+  .oddbrick6 {
+    margin-left: 62.5%;
+  }
+  
+  .oddbrick7 {
+    margin-left: 75%;
+  }
+  
+  .oddbrick8 {
+    margin-left: 87.5%;
+  }
+  
+  .evenbrick1 {
+    margin-left: -6.25%;
+  }
+  
+  .evenbrick2 {
+    margin-left: 6.25%;
+  }
+  
+  .evenbrick3 {
+    margin-left: 18.75%;
+  }
+  
+  .evenbrick4 {
+    margin-left: 31.25%;
+  }
+  
+  .evenbrick5 {
+    margin-left: 43.75%;
+  }
+  
+  .evenbrick6 {
+    margin-left: 56.25%;
+  }
+  
+  .evenbrick7 {
+    margin-left: 68.75%;
+  }
+  
+  .evenbrick8 {
+    margin-left: 81.25%;
+  }
+  
+  .evenbrick9 {
+    margin-left: 93.75%;
+  }
